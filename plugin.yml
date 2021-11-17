@@ -1,0 +1,20 @@
+name: ranks
+version: 1.1
+description: Commands to give and remove roles
+author: Sterix
+main: com.Sterix.ranks.ranks
+api-version: 1.16
+
+commands:
+  grole:
+    description: Gives user the specified role
+    usage: /<command>
+  drole:
+    description: removes the specified role from a user
+    usage: /<command>
+
+permissions:
+  grole:
+    description: Allows player to grant a role
+  drole:
+    description: Allows player to remove roles
