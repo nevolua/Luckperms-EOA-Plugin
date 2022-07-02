@@ -13,12 +13,6 @@ This plugin has two commands, one to give a user a rank, and another to remove a
 
 
 
-Other:
-
-There were some problems compiling the code to the right java version, and it's being worked on currently.
-
-
-
 For devs:
 
 The current method being used for this, is to have a command listening for 2 arguments, one for the player,
